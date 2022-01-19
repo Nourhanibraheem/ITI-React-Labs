@@ -1,0 +1,17 @@
+.portcards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 90px;
+}
+h3{
+    margin-top: 6vh;
+    font-family:serif;
+}
+.port{
+    padding:70px 0px ;
+    color: #fff ;
+    font-size: 25px;
+}

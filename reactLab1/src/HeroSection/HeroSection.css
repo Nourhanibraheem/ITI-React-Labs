@@ -1,0 +1,20 @@
+.card{
+    height:80vh ;
+}
+.card-img{
+    height:80vh ;
+}
+
+.con{
+    margin-top: 5vh;
+    background-color: transparent !important;
+}
+
+.card-img-overlay{
+    margin-top: 10vh;
+    padding: 1rem;
+    border-radius: calc(.25rem - 1px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
